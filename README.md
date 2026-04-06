@@ -177,34 +177,12 @@
 
 ## 🏅 Achievements & Hackathons
 
-- 🥇 **BITS Hackathon Finalist** - SwipeNBite (Top 20/500+ teams)
+- 🥇 **Hackathon Finalist** - SwipeNBite (Top 20/500+ teams)
 - 🏆 **Aaruush Committee Head** - Leading 150+ events annually
 - 🌟 **Intel Industry Training** - GPS Toll System Development
 - 📊 **IEEE Publication** - EcoSimulate Research Paper
 - ☁️ **Multi-Cloud Certified** - AWS, GCP, Azure
 
----
-
-## 🎯 Current Focus
-
-```python
-class SohamWagh:
-    def __init__(self):
-        self.current_work = "EcoSimulate Platform Development"
-        self.learning = ["Advanced RAG Systems", "Multi-Cloud Architecture", "MLOps"]
-        self.collaboration = "Environmental Tech Solutions"
-        self.goals = ["Full-Stack AI Developer", "Tech Entrepreneur", "Environmental Advocate"]
-        self.fun_fact = "I believe technology can solve climate change! 🌱"
-    
-    def get_contact(self):
-        return {
-            'email': 'sw5911@srmist.edu.in',
-            'linkedin': 'linkedin.com/in/sohamwagh2026',
-            'github': 'github.com/Sohamk22'
-        }
-```
-
----
 
 ## 📈 Profile Views & Stats
 
